@@ -48,18 +48,31 @@ The dataset contains ECG recordings collected from subjects during sleep and is 
 Biosignal_ECG_Sleep_Apnea_Project
 │
 ├── data/
+│   └── README.md
+│
 ├── docs/
+│   ├── README.md
+|   ├── PPT.pptx
+|   ├── Biosignal_Final_Submission_TC_Adithya
+│
 ├── images/
 │   ├── Confusion_Matrix.png
 │   ├── ROC.png
-│   └── Training_Loss.png
+│   ├── Training_Loss.png
+│   └── README.md
+│
+├── models/
+│   └── README.md
 │
 ├── notebooks/
-│   └── ECG_1.ipynb
+│   ├── ECG_1.ipynb
+│   └── README.md
 │
 ├── results/
-│   └── metrics.txt
+│   ├── metrics.txt
+│   └── README.md
 │
+├── requirements.txt
 ├── LICENSE
 ├── README.md
 └── .gitignore
