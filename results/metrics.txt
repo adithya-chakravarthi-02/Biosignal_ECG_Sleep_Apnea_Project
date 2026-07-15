@@ -1,0 +1,30 @@
+============================================================
+ECG Sleep Apnea Detection - Model Performance
+============================================================
+
+Model:
+CNN (1D Convolutional Neural Network)
+
+Dataset:
+PhysioNet Apnea-ECG Database
+
+Evaluation Metrics
+------------------
+Test Accuracy : 95.45%
+
+AUC Score     : 0.9353
+
+Precision
+----------
+Normal        : 95.24%
+Sleep Apnea   : 95.65%
+
+Recall
+-------
+Normal        : 95.24%
+Sleep Apnea   : 95.65%
+
+F1-Score
+--------
+Normal        : 95.24%
+Sleep Apnea   : 95.65%
